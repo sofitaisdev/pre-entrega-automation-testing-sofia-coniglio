@@ -1,8 +1,14 @@
-# Pre-Entrega Automation Testing - SauceDemo
+# Pre-Entrega Automation Testing - Sofia Coniglio
 
-Proyecto de pruebas automatizadas con Python, Selenium y Pytest.
+## Propósito del Proyecto
+Proyecto de pruebas automatizadas desarrollado para la validación del flujo de compras e inicio de sesión en el sitio web `https://www.saucedemo.com/` aplicando prácticas de testing automatizado.
 
-## Ejecución
+## Tecnologías Utilizadas
+- **Python**
+- **Selenium WebDriver**
+- **Pytest**
+
+## Instrucciones de Instalación
+Cloná el repositorio e instalá las dependencias necesarias ejecutando:
 ```bash
 pip install selenium pytest
-pytest tests/test_saucedemo.py -v
